@@ -22,5 +22,6 @@ Python | SQL | Power BI | Excel | PySpark | TensorFlow
 ## Contato
 
 LinkedIn https://www.linkedin.com/in/nayane-a-aa170468/
+
 Email nayane.oaraujo@gmail.com
 
